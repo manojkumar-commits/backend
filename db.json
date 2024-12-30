@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "id": "ab9e",
+        "email": "manoj@gmail.com",
+        "password": "$2a$10$.XQn.fR4XbyE/eLMgN/DD.Bo8Yd7MC.joTIY4nW1UpWL9JLVRArwm"
+      },
+      {
+        "id": "29a5",
+        "email": "test@gmail.com",
+        "password": "$2a$10$FfUOUMNiFosDtIhqidS5Sels6q94/.aTyN906oWgHUgVfxEr6EzQ."
+      }
+    ]
+  }
